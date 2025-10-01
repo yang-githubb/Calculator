@@ -1,0 +1,10 @@
+# Python Calculator Requirements
+# 
+# This calculator uses tkinter which comes built-in with Python
+# No additional packages are required for the basic version
+#
+# Python version: 3.6 or higher recommended
+
+# Optional: for packaging the application
+# pyinstaller==5.13.0
+
